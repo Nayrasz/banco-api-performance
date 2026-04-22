@@ -1,3 +1,7 @@
+Repositório com testes de performance automatizados desenvolvidos com k6 e JavaScript, voltados para avaliação de uma API bancária.  
+
+🔗 [Acesse o repositório](https://github.com/Nayrasz/banco-api-performance)
+
 # 📊 Testes de Performance com k6 - Banco API
 
 ## 📌 Introdução
